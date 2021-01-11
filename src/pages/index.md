@@ -14,7 +14,7 @@ sections:
     actions:
       - title: See all items
         url: /store
-        arrow: false
+        arrow: true
         style: primary
       - title: lorem-ipsum
         url: lorem-ipsum
